@@ -15,4 +15,5 @@ envia.addEventListener("click", function (){
        
         resul.appendChild(linha)  
     } 
-})
+} 
+)
