@@ -1,15 +1,45 @@
-*{
-    background-color: #5f5a5a;
+/* Estilização geral da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 50px;
 }
-.la{
-    color: white;
+
+/* Rótulo (label) */
+.la {
+    font-size: 18px;
+    color: #333;
 }
-.btn{
-    color: white;
+
+/* Campo de número */
+.num {
+    padding: 10px;
+    font-size: 16px;
+    width: 150px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
 }
-.resul{
+
+/* Botão */
+.btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
     color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
 }
-.num{
-    color: white;
+
+.btn:hover {
+    background-color: #45a049;
+}
+
+/* Resultado */
+.resul {
+    margin-top: 20px;
+    padding: 15px;
+    background-color:
 }
